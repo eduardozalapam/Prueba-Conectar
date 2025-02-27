@@ -6,3 +6,5 @@ print(numero1 + numero2)
 numero3 = 50
 numero4 = 60
 print(numero3 - numero4)
+
+#Favor de agregar un tercer valor en una tercera variable y realizar la resta
